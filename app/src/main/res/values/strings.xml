@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Droidd</string>
+    <string name="page_name">Настройка пушки</string>
+    <string name="page_name2">Список сохраненных мячей</string>
+    <string name="vert_angel">ВЕРХ-НИЗ</string>
+    <string name="hor_angel">ЛЕВО-ПРАВО</string>
+    <string name="speedMotor1">МОТОР 1</string>
+    <string name="speedMotor2">МОТОР 2</string>
+    <string name="speedMotor3">МОТОР 3</string>
+    <string name="config_name">ИМЯ</string>
+    <string name="configHint">Введите имя конфигурации</string>
+    <string name="saveButton">Сохранить</string>
+    <string name="openButton">Открыть</string>
+    <string name="shootButton">Выстрел</string>
+</resources>
