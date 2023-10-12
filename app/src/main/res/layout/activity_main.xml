@@ -38,7 +38,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:id="@+id/textView2"
-                            android:layout_weight="2"
+                            android:layout_weight="1"
+                            android:gravity="center"
                     />
                     <SeekBar
                             android:layout_width="wrap_content"
@@ -95,7 +96,7 @@
                         android:layout_weight="1"
                         android:id="@+id/button"
                         style="@style/ButtonStyle"
-                        android:drawableLeft="@drawable/save_icon"
+                        android:drawableLeft="@drawable/ic_save_icon"
                 />
                 <Button
                         android:text="@string/openButton"
@@ -105,7 +106,7 @@
                         android:layout_weight="1"
                         android:id="@+id/button2"
                         style="@style/ButtonStyle"
-                        android:drawableLeft="@drawable/open_icon"
+                        android:drawableLeft="@drawable/ic_folder_open"
                 />
             </LinearLayout>
 
@@ -119,7 +120,7 @@
                         android:layout_height="wrap_content"
                         android:id="@+id/button3"
                         style="@style/ButtonStyle"
-                        android:drawableLeft="@drawable/shoot_icon"
+                        android:drawableLeft="@drawable/ic_play_icon"
                 />
             </LinearLayout>
         </LinearLayout>
